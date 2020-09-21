@@ -1,0 +1,1 @@
+import yatube.posts.admin
